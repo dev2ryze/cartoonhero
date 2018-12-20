@@ -52,14 +52,18 @@ a{
 footer{
     margin-top: 20px;
     padding: 15px 20px;
-    background-color: lightgray;
+    background-color: #5e91f2;
 }
 
+footer a{
+    color: whitesmoke;
+    text-decoration: none;
+}
 footer ul{
     text-align: center;
 }
 footer ul li{
     display: inline-block;
-    margin: 0 7px;
+    margin: 0 5px;
 }
 
